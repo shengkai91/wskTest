@@ -1,4 +1,5 @@
 init in sk2
+init in sk1
 
 hotfixed
 added a new footer[iss53]
